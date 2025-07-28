@@ -78,5 +78,6 @@ pdf-outline-extractor python extract\_outline.py input.pdf output.json
 
 ## 👤 Author
 
-Developed by **Roshan Gomes**
+Developed by **Roshan Gomes | Aviral Saxena**
 GitHub: [https://github.com/roshangomes](https://github.com/roshangomes)
+GitHub: [https://github.com/silentstone00](https://github.com/silentstone00)
